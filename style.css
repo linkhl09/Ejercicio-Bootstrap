@@ -1,0 +1,27 @@
+.content{
+	min-height: 100px;
+}
+
+.bannerFooter{
+	background-color:brown;
+}
+
+.leftMenu{
+	background-color:orange;
+}
+
+.topMenu{
+	background-color:chocolate;
+}
+
+.photoO{
+	background-color:crimson;
+}
+
+.photoE{
+	background-color: aquamarine;
+}
+
+body{
+	text-align: center;
+}
